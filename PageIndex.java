@@ -1,8 +1,8 @@
-package com.yutu.common.page;
+package com.msp.common.page;
 
 /**
  * 
- * @author zhuGy
+ * @author msp
  * 
  */
 public class PageIndex {

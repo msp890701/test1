@@ -1,10 +1,10 @@
-package com.yutu.common.page;
+package com.msp.common.page;
 
 import java.util.List;
 
 /**
  * 
- * @author zhuGy
+ * @author msp
  * 
  * @param <T>
  */
